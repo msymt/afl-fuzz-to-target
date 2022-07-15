@@ -31,3 +31,7 @@ child process exit
 $ cat ./out.txt
 Hello,World!
 ```
+
+## ref
+
+- https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/operating_systems/slides/pdf/07_everything_is_file.pdf
