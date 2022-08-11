@@ -2,6 +2,10 @@
 
 前提：forkserverなし
 
+## 発表スライド
+
+[ファジングツールAFLが ターゲットに入力を送る方法　公開版](https://speakerdeck.com/msymt/sekiyuriteikiyanpuquan-guo-da-hui-ltda-hui)
+
 ## ディレクトリ構成
 
 - afl-fuzz.c: 疑似[afl-fuzz.c](https://github.com/google/AFL/blob/master/afl-fuzz.c)
