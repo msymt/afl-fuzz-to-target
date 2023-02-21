@@ -2,6 +2,9 @@
 
 前提：forkserverなし
 
+This repository describes how the fuzzing tool AFL sends fuzz to the target binary.
+
+
 ## 発表スライド
 
 [ファジングツールAFLが ターゲットに入力を送る方法　公開版](https://speakerdeck.com/msymt/sekiyuriteikiyanpuquan-guo-da-hui-ltda-hui)
